@@ -1,9 +1,3 @@
-# MemeMinds
-RAG-ENHANCED GPT FOR ENTERTAINMENT-BASED PSYCHOLOGICAL DIAGNOSIS
-Here is a **README.md** file draft based on the provided report and presentation for your GitHub repository:
-
----
-
 # MEMEMINDS: RAG-Enhanced GPT for Psychological Diagnosis
 
 ## Overview
