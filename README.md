@@ -97,20 +97,21 @@ This project highlights the potential of AI-driven solutions in making psycholog
 ### Running the System
 
 1. Start the database and retrieval system.
-2. You should first have the following:
-1. MongoDB in your local environment
-2. An OpenAI API key
+   You should first have the following:
+   - MongoDB in your local environment
+   - An OpenAI API key
 
 To setup the environment, you should build the retrival database first,
 Before that, you should put your OpenAI key in whereever it asks for.
 
 You can run RetrivalDB.py to setup the retrival database automatically.
 You should use wiki_raw.csv to set up the database described above, otherwise, the FAISS index will process for a very long time.
-3. Execute the main script:
+
+2. Execute the main script:
    ```bash
    python main.py
    ```
-4. Interact with the chatbot and explore diagnostics.
+3. Interact with the chatbot and explore diagnostics.
 
 ---
 
