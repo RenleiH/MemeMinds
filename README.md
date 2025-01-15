@@ -101,11 +101,11 @@ This project highlights the potential of AI-driven solutions in making psycholog
    - MongoDB in your local environment
    - An OpenAI API key
 
-To setup the environment, you should build the retrival database first,
-Before that, you should put your OpenAI key in whereever it asks for.
+   To setup the environment, you should build the retrival database first,
+   Before that, you should put your OpenAI key in whereever it asks for.
 
-You can run RetrivalDB.py to setup the retrival database automatically.
-You should use wiki_raw.csv to set up the database described above, otherwise, the FAISS index will process for a very long time.
+   You can run RetrivalDB.py to setup the retrival database automatically.
+   You should use wiki_raw.csv to set up the database described above, otherwise, the FAISS index will process for a very long time.
 
 2. Execute the main script:
    ```bash
